@@ -1,0 +1,2 @@
+U-net algoritm will be used 
+some other algorithms like CNN and etc can come in handy as well

@@ -1,0 +1,3 @@
+This is a brain tumor image segmentaion project
+This is my first project which will eventually
+be uploaded in github
